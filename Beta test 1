@@ -199,46 +199,72 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="ZEE 5 ",ZEE ANMOL CINEMA
 http://208.86.19.13:81/722.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png" tvg-chno="56334" group-title="Sony LIV ",Sony TV HD 
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-BBC-Earth-HD-New-Logo.png" tvg-chno="4" group-title="Sony LIV",Sony BBC earth HD 
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png" tvg-chno="5" group-title="Sony LIV",Sony Marathi HD 
-https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Sony LIV",Sony Max HD 
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" tvg-chno="7" group-title="Sony LIV",Sony Max2 HD 
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png" tvg-chno="8" group-title="Sony LIV",Sony pal HD 
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="Sony LIV",Sony pix HD 
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png" tvg-chno="10" group-title="Sony LIV",Sony SAB TV HD 
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="11" group-title="Sony LIV",Sony Max HD 
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" tvg-chno="12" group-title="Sony LIV",Sony sports ten 5
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png" tvg-chno="13" group-title="Sony LIV",Sony sports ten 5 HD 
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sony LIV",Sony sports ten 1 HD 
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-New-Logo.png" tvg-chno="15" group-title="Sony LIV",Sony sports ten 1 
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="16" group-title="Sony LIV",Sony sports ten 2 HD 
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="17" group-title="Sony LIV",Sony sports ten 2 
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="18" group-title="Sony LIV",Sony sports ten 3 HD 
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="19" group-title="Sony LIV",Sony sports ten 3 
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" tvg-chno="20" group-title="Sony LIV",Sony sports ten 4 HD 
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" tvg-chno="21" group-title="Sony LIV",Sony sports ten 4
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="22" group-title="Sony LIV",Sony WAH HD 
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id="291" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+http://techmaxlive.ml/live.php?c=Sony_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1396" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",Sony SD
+http://techmaxlive.ml/live.php?c=Sony_SD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="471" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+http://techmaxlive.ml/live.php?c=Sony_SAB_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="154" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony SAB
+http://techmaxlive.ml/live.php?c=Sony_SAB&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="474" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
+http://techmaxlive.ml/live.php?c=Sony_Pal&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1393" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",Sony Wah
+http://techmaxlive.ml/live.php?c=Sony_Wah&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="697" group-title="Sony LIV" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",Sony aath
+http://techmaxlive.ml/live.php?c=Sony_aath&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1146" group-title="Sony LIV" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi SD
+http://techmaxlive.ml/live.php?c=Sony_Marathi_SD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="852" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png",Sony BBC Earth HD English
+http://techmaxlive.ml/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="821" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
+http://techmaxlive.ml/live.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="823" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png",Sony BBC Earth SD
+http://techmaxlive.ml/live.php?c=Sony_BBC_Earth_SD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="854" group-title="Sony LIV" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png",Sony BBC Earth HD Telugu
+http://techmaxlive.ml/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="853" group-title="Sony LIV" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png",Sony BBC Earth HD Tamil
+http://techmaxlive.ml/live.php?c=Sony_BBC_Earth_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="476" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+http://techmaxlive.ml/live.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="289" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",Sony Max SD
+http://techmaxlive.ml/live.php?c=SET_MAX&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="762" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+http://techmaxlive.ml/live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1530" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png",Sony Pix SD
+http://techmaxlive.ml/live.php?c=Sony_Pix_SD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="483" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
+http://techmaxlive.ml/live.php?c=Sony_MAX2&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="872" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
+http://techmaxlive.ml/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="874" group-title="Sony LIV" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png",Sony Yay Telugu
+http://techmaxlive.ml/live.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="873" group-title="Sony LIV" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png",Sony Yay Tamil
+http://techmaxlive.ml/live.php?c=Sony_Yay_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="162" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
+http://techmaxlive.ml/live.php?c=Ten_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="514" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
+http://techmaxlive.ml/live.php?c=Ten_1&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="891" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
+http://techmaxlive.ml/live.php?c=Ten2_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="523" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
+http://techmaxlive.ml/live.php?c=Ten_2&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="892" group-title="Sony LIV" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Ten 3 HD
+http://techmaxlive.ml/live.php?c=Ten3_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="524" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Ten 3
+http://techmaxlive.ml/live.php?c=Ten_3&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1772" group-title="Sony LIV" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",Ten 4 HD Tamil
+http://techmaxlive.ml/live.php?c=Ten_4_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1774" group-title="Sony LIV" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",Ten 4 Tamil
+http://techmaxlive.ml/live.php?c=Ten_4_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1773" group-title="Sony LIV" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",Ten 4 HD Telugu
+http://techmaxlive.ml/live.php?c=Ten_4_HD_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1775" group-title="Sony LIV" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",Ten 4 Telugu
+http://techmaxlive.ml/live.php?c=Ten_4_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="155" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony TEN 5 HD
+https://4b70-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Six_HD
+#EXTINF:-1 tvg-id="525" group-title="Sony LIV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony TEN 5
+http://techmaxlive.ml/live.php?c=Sony_Six_SD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="144" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://spidy.ga/app/master.php?id=Colors_HD&e=.m3u8
 #EXTINF:-1 tvg-id="1368" group-title="VOOT" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
